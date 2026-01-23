@@ -11,7 +11,6 @@
 - [FileProvider 공식 문서](https://developer.android.com/training/secure-file-sharing?hl=ko)
 
 ## Preview
-<img width="300" height="600" alt="Screenshot_20260109_000807" src="https://github.com/user-attachments/assets/98933032-a042-4224-92b4-b2867d3e7a88" />
-<img width="300" height="600" alt="Screenshot_20260109_000828" src="https://github.com/user-attachments/assets/0161417a-f066-485a-a91d-de514f5cffa2" />
-<img width="300" height="600" alt="Screenshot_20260109_000912" src="https://github.com/user-attachments/assets/c0ae5b7e-2be3-4b70-a9fa-8aa9d08a8b0e" />
-<img width="300" height="600" alt="Screenshot_20260109_000847" src="https://github.com/user-attachments/assets/c11f81ba-f40b-46dd-ab0d-5f5fefb0619d" />
+| 🔐 예시 화면 1 | 🔍 예시 화면 2 |
+| :---: | :---: |
+| <img width="180" height="400" alt="Screenshot_20260109_000807" src="https://github.com/user-attachments/assets/98933032-a042-4224-92b4-b2867d3e7a88" /> <img width="180" height="400" alt="Screenshot_20260109_000828" src="https://github.com/user-attachments/assets/0161417a-f066-485a-a91d-de514f5cffa2" /> | <img width="180" height="400" alt="Screenshot_20260109_000912" src="https://github.com/user-attachments/assets/c0ae5b7e-2be3-4b70-a9fa-8aa9d08a8b0e" /> <img width="180" height="400" alt="Screenshot_20260109_000847" src="https://github.com/user-attachments/assets/c11f81ba-f40b-46dd-ab0d-5f5fefb0619d" /> |
